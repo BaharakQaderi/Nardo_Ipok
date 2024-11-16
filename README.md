@@ -43,7 +43,7 @@ python3 main.py
 
 
 
-This code has been checked with MTi-680 in ubuntu 18.04LTS(nVidia Jetson Nano),  not all other MTi models were tested, by they share the same Xbus communication protocol.
+This code has been checked with MTi-680 in ubuntu 18.04LTS(nVidia Jetson Nano), in Raspberry Pi 4b, not all other MTi models were tested, by they share the same Xbus communication protocol.
 
 For MTi-300 with cable model CA-USB-MTi, if you don't have 'dev/ttyUSB0', 
 ```
